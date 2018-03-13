@@ -1,3 +1,8 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+from __future__ import print_function 
+import random
 """
 ITERATION THREE: Now that you have written a simple guessing
 game, add some logic in that determines if the game is over

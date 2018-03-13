@@ -1,3 +1,8 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+from __future__ import print_function 
+
 """
 Let's create a to do dictionary. 
 
@@ -7,7 +12,7 @@ Once the user has provided 5 tasks, display each task number
 and task description back to the user.
 """
 
-print "Greetings Busy Bee! Let's get to work making that TO DO list!"
+print("Greetings Busy Bee! Let's get to work making that TO DO list!")
 my_to_dos = {}
 
 # HINT: You can see how many items are in the 
@@ -19,7 +24,7 @@ my_to_dos = {}
 # just ask the user for the task description. How can we repeat asking 
 # the user to give us all the items?
 
-print "Fantastic! Here is the list of things you have to do today:"
+print("Fantastic! Here is the list of things you have to do today:")
 
 # Again, how can we repeat something? But this time
 # it doesn't have to be tied to a specific condition. 
